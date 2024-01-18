@@ -1,0 +1,1 @@
+{"dependencies":[["vagrant-timezone",["= 1.3.0"]],["rake",[">= 0"]],["virtualbox_WSL2",["= 0.1.3"]]],"checksum":"708a0a8bedaffb5d732fdd621f855ce8f1bac117f8ea0629409def56161adc91","vagrant_version":"2.4.0"}
